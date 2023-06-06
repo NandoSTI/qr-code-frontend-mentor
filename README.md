@@ -9,9 +9,9 @@
 - [Construído com](#construído-com)
 - [O que aprendi](#o-que-aprendi)
 - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-- [Recursos úteis](#useful-resources)
+- [Recursos úteis](#recursos-úteis)
 - [Fernando Mendes](#autor)
-- [Agradecimentos](#acknowledgments)
+- [Agradecimentos](#agradecimentos)
 
 
 
