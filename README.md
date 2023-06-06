@@ -36,8 +36,8 @@
 
 ### O que eu aprendi
 
-Nesse projeto aprendi uma solução fácil para centralizar elementos aproveitando a responsividade
-usando como base um elemento pai: 
+Nesse projeto aprendi uma solução fácil para centralizar elementos
+usando como base um elemento pai e já trabalhando com responsividade: 
 
 ``` 
 HTML
