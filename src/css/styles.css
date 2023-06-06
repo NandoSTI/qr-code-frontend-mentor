@@ -1,14 +1,9 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Outfit', sans-serif, Arial, Helvetica, sans-serif;
+:root {
+    --background-color: hsl(212, 45%, 89%);
+    --background-container: hsl(0, 0%, 100%);
 }
-
-
-
 body {
-    background-color: hsl(212, 45%, 89%);
+    background-color: var(--background-color);
 }
 
 .main-container {
@@ -33,7 +28,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: hsl(0, 0%, 100%);
+    background-color: var(--background-container);
     border-radius: 15px;
     text-align: center;
     padding: 38px;
