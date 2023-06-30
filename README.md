@@ -7,7 +7,7 @@
 - [Visão geral](#visão-geral)
 - [Captura de tela](#captura-de-tela)
 - [Construído com](#construído-com)
-- [O que aprendi](#o-que-aprendi)
+- [O que aprendi](#O-que-aprendi)
 - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Recursos úteis](#recursos-úteis)
 - [Fernando Mendes](#autor)
