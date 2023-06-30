@@ -7,7 +7,7 @@
 - [Visão geral](#visão-geral)
 - [Captura de tela](#captura-de-tela)
 - [Construído com](#construído-com)
-- [O que aprendi](#que-aprendi)
+- [O que aprendi](#o-que-aprendi)
 - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Recursos úteis](#recursos-úteis)
 - [Fernando Mendes](#autor)
@@ -36,7 +36,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
 </div>
 
-### O que eu aprendi
+### O que aprendi
 
 Nesse projeto aprendi uma solução fácil para centralizar elementos
 usando como base um elemento pai e já trabalhando com responsividade: 
